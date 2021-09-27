@@ -1,5 +1,6 @@
 # My Stipend Tracker.
 Project built to track my expenses on various aspects on specific dates so that I utilize my money to the fullest. It also has the inbuilt voice functionality to add transactions and expenses instead of typing them over.
+**Deployed version** 👉 https://stipend-tracker.netlify.app
 
 ## Sample image of the project.
 
